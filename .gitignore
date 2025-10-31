@@ -25,7 +25,7 @@ env_genai/
 .DS_Store
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
 
 # Testing
 .pytest_cache/
