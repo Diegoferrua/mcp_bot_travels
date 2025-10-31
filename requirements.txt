@@ -1,0 +1,28 @@
+# ============================================================================
+# DEPENDENCIAS - TRAVEL PRO AI (Agente de Planificación de Vacaciones)
+# ============================================================================
+
+# LangChain Core
+langchain==0.3.18
+langchain-openai==0.3.2
+langchain-core==0.3.34
+langchain-community==0.3.17
+
+# LangGraph para agentes
+langgraph==0.2.62
+
+# OpenAI
+openai==1.59.7
+
+# Utilidades
+requests==2.32.5
+pydantic==2.10.5
+python-dotenv==1.0.0
+
+# Interfaz web
+streamlit==1.41.1
+
+# APIs externas (opcionales pero recomendadas)
+# wikipedia==1.4.0  # Para consultas mejoradas de Wikipedia
+
+
